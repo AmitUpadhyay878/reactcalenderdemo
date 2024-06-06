@@ -1,0 +1,10 @@
+.rbc-toolbar button{    
+  background-color: #ff174f !important;
+  border: none !important;
+  color: white !important;
+
+  &:hover{
+            color:#ff174f !important;
+            background-color: white !important;
+  }
+}

@@ -1,0 +1,19 @@
+
+/* Header.css */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    height: 100px;
+    padding:40px;
+    /* background-color: #f8f8f8;*/
+    border-bottom: 1px solid #ddd; 
+  }
+  
+  .logo {
+    width: 150px; /* Adjust the width as needed */
+  }
+  
