@@ -52,12 +52,6 @@ This is a simple React calendar application that allows users to add, edit, and 
 - Click on an existing event to edit its title.
 - Click on the "Delete" button in the modal to delete an event.
 
-## Screenshots
-
-![Month View](screenshots/month-view.png)
-![Week View](screenshots/week-view.png)
-![Day View](screenshots/day-view.png)
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
