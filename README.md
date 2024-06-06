@@ -20,27 +20,27 @@ This is a simple React calendar application that allows users to add, edit, and 
 
 1. Clone the repository:
 
-    bash
-    git clone <repository-url>
-    
+    ```bash
+    git clone https://github.com/MultiQoSTechnologies/react-calender-demo.git
+    ```    
 
 2. Navigate to the project directory:
 
-    bash
+    ```bash
     cd react-calendar-app
+    ```
     
-
 3. Install dependencies using yarn:
 
-    bash
+    ```bash
     yarn install
-    
+    ```    
 
 4. Start the development server:
 
-    bash
+    ```bash
     yarn run dev
-    
+    ```
 
 5. Open your browser and navigate to `http://localhost:9211` to view the app.
 
