@@ -1,6 +1,6 @@
 # React Calendar App
 
-This is a simple React calendar application that allows users to add, edit, and delete events.
+This is a React calendar application that allows users to add, edit, and delete events.
 
 ## Features
 
