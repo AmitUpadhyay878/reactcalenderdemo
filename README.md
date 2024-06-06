@@ -55,7 +55,3 @@ This is a simple React calendar application that allows users to add, edit, and 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
