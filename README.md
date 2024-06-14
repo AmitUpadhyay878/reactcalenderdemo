@@ -21,7 +21,7 @@ This is a React calendar application that allows users to add, edit, and delete 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/MultiQoSTechnologies/react-calender-demo.git
+    git clone https://github.com/MultiQoSTechnologies/react-calendar-demo.git
     ```    
 
 2. Navigate to the project directory:
