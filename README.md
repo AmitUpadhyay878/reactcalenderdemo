@@ -57,7 +57,7 @@ This is a React calendar application that allows users to add, edit, and delete 
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
 
 ### Let Us know
-For more details, visit MultiQoS.
+For more details, visit [MultiQoS](https://multiqos.com/).
 
 Contact us for collaboration or support:
 
