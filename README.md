@@ -55,3 +55,10 @@ This is a React calendar application that allows users to add, edit, and delete 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
+
+### Let Us know
+For more details, visit MultiQoS.
+
+Contact us for collaboration or support:
+
+Email: biz@multiqos.com
